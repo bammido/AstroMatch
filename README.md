@@ -12,7 +12,7 @@ Em busca de um par para não passar o dia dos namorados só?? Esse app pode te a
 
 ## Funcionalidades
 
-* Curtir (ou nã0) os perfis exibidos
+* Curtir (ou não) os perfis exibidos
 * Ver lista de matches
 
 ## Tecnologias
