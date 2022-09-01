@@ -10,6 +10,11 @@ disclaimer: esse repositório foi criado com a finalidade de mostrar o meu proje
 
 Em busca de um par para não passar o dia dos namorados só?? Esse app pode te ajudar a encontrar a pessoa ideal.
 
+## Funcionalidades
+
+* Curtir (ou nã0) os perfis exibidos
+* Ver lista de matches
+
 ## Tecnologias
 
 * libs: styled-components, axios
